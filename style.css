@@ -1,0 +1,59 @@
+
+
+
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+
+.header{
+    background-color: black;
+    width: auto;
+    height: 50px;
+    font: 20px sans-serif;
+    
+}
+
+
+.center {
+
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1100px;
+    margin:0 auto;
+    padding: 0 15%; 
+}
+
+.menu {
+
+    padding-top: 15px;
+    width: 60%;
+    text-align: right;
+}
+
+.menu {
+    color: antiquewhite;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+.converter {
+    padding-top: ;
+}
+
+form {
+    /* Apenas para centralizar o form na página */
+    margin:30px auto;
+    width: 400px;
+    /* Para ver as bordas do formulário */
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 1em;
+  }
+  
+  
